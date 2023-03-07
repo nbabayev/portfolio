@@ -16,13 +16,16 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
+  baba,
   tesla,
   shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
+  abasoft,
+  agile,
+  element
 } from "../assets";
 
 export const navLinks = [
@@ -116,9 +119,9 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Help Desk Developer",
+    title: "Help Desk Technician",
     company_name: "BABA COMPANY",
-    icon: starbucks,
+    icon: baba,
     location: "Azerbaijan, Baku",
     iconBg: "#383E56",
     date: "October 2018 - July 2019",
@@ -133,7 +136,7 @@ const experiences = [
   {
     title: "Junior Frontend Developer",
     company_name: "AG Developments LLC",
-    icon: starbucks,
+    // icon: abasoft,
     location: "Azerbaijan/Russia",
     iconBg: "#383E56",
     date: "August 2019 - July 2020",
@@ -149,7 +152,7 @@ const experiences = [
   {
     title: "Frontend Developer",
     company_name: "Abasoft Technologies",
-    icon: tesla,
+    icon: abasoft,
     location: "Azerbaijan, Baku",
     iconBg: "#E6DEDD",
     date: "October 2020 - June 2021",
@@ -165,7 +168,7 @@ const experiences = [
   {
     title: "Frontend React Developer",
     company_name: "Agile Solutions Azerbaijan",
-    icon: shopify,
+    icon: agile,
     location: "Azerbaijan, Baku",
     iconBg: "#383E56",
     date: "November 2021 - November 2022",
@@ -182,7 +185,7 @@ const experiences = [
   {
     title: "Lead Frontend Developer(REMOTE)",
     company_name: "Element Software",
-    icon: meta,
+    icon: element,
     location: "UK, London",
     iconBg: "#E6DEDD",
     date: "November 2022 - Present",

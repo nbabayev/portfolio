@@ -23,8 +23,12 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import baba from "./company/baba-mmc.jpg";
 import tesla from "./company/tesla.png";
+import abasoft from "./company/abasoft.jpg";
+import agile from "./company/agile.jpg";
+import element from "./company/element.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -54,7 +58,10 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
+  baba,
+  abasoft,
+  agile,
+  element,
   tesla,
   carrent,
   jobit,
